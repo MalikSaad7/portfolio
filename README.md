@@ -1,2 +1,4 @@
-# portfolio
-saadmalik.github.io/portfolio
+# Data Analyst
+
+### Education
+BE, NUST
